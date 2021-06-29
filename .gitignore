@@ -1,0 +1,8 @@
+simdjson.cpp
+simdjson.h
+*.o
+*.so
+.dcu
+*.dbg
+*.lps
+utf8validate
